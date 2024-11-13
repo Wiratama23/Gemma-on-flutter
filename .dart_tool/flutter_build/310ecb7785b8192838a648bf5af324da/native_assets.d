@@ -1,0 +1,1 @@
+ G:\\Ngoding\\ujicobagemma\\.dart_tool\\flutter_build\\310ecb7785b8192838a648bf5af324da\\native_assets.yaml: 
